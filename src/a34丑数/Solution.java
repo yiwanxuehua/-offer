@@ -18,7 +18,6 @@ import java.util.ArrayList;
 	(4):注意，有时候可能出现类似a==b的情况，那么i与j都进行加1操作。
  
  */
-
 public class Solution {
 
 	public static void main(String[] args) {
